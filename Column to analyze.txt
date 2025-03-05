@@ -1,0 +1,16 @@
+Mass
+Charge
+PTMCnt           --> PTM Number
+PTMCntRatio      --> PTM Ratio
+MassDifferent    --> Mass Difference
+PeptideLength    --> Peptide Length
+AvgIntensityLog  --> ARI Intensity (log)
+expect           --> E-value
+fval             --> F-value
+EucliIntraProtein           --> devEucD
+ManhattanIntraProtein       --> devManD
+PearsonIntraProtein         --> devPCC
+CosineIntraProtein          --> devCosD
+EucliIntraProteinPair       --> avgEucD
+ManhattanIntraProteinPair   --> avgManD
+CosineIntraProteinPair      --> avgCosD
