@@ -2,7 +2,7 @@
 IQUP: Identification of quantitatively unreliable spectra with machine learning for isobaric labeling-based proteomics
 
 # Description
-This is the source code of IQUP, a machine learning predictor for identifying quantitatively unreliable spectra for isobaric labeling-based proteomics. The trained models are also included in this package, allowing predictions on a given dataset.
+This is the source code of IQUP, a machine learning predictor for identifying quantitatively unreliable spectra for isobaric labeling-based proteomics. The trained models are also included in this package, allowing predictions on a given isobaric labeling proteomic dataset.
 
 # Installation
 Requiremenets:
